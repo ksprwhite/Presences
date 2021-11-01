@@ -931,10 +931,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.133":
-  version "0.0.133"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.133.tgz#9e1d55441584ba2d5274ca84db36427da9c5dc6e"
-  integrity sha512-G8uIUdaCTBILprQvQXBWGXZxjAWbkCkFQit17cdH3zYQEwU8f/etNl8+M7e8MRz9Xj8daHaVpysneMZMx8/ldQ==
+"@types/chrome@^0.0.162":
+  version "0.0.162"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.162.tgz#3483da633b0ff15e24396de06245e277c60db78c"
+  integrity sha512-DiMo9SrOhkb49bXPRke41Nvd9rgDgxn/mqyZ5gQnU+ST3H/vcnnvtwCkpuUl7O9FwoUwECfMSZiBTXuK8sMSwQ==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
